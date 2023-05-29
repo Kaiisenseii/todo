@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "learn Next.js"
+    },
+    {
+      "id": "2",
+      "text": "make a crud app"
+    }
+  ]
+}
